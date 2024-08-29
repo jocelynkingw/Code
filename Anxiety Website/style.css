@@ -1,9 +1,11 @@
+
+
 body{
-        background-color: #344557;
+        background-color: #16132e;
 }
 
 .hero-image{
-        background-image: url("./Textured\ Photos/Green\ Modern\ Texture.jpg");
+        background-image: url("./Textured\ Photos/Purple\ Modern\ Texture.png");
         height: 200px;
         background-position: center;
         background-repeat: no-repeat;
@@ -14,5 +16,6 @@ body{
         color: azure;
         position: absolute;
         text-align: center;
-        top: 100px;
+        top: 70px;
+        width: 100%;
 }
