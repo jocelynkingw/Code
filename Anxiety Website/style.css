@@ -1,0 +1,18 @@
+body{
+        background-color: #344557;
+}
+
+.hero-image{
+        background-image: url("./Textured\ Photos/Green\ Modern\ Texture.jpg");
+        height: 200px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.hero-text{
+        color: azure;
+        position: absolute;
+        text-align: center;
+        top: 100px;
+}
